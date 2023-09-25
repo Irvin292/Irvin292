@@ -9,7 +9,13 @@
   <br>
     An Passionate <b>Software Developer,</b>&nbsp; <b>Competitive Data Analyst,</b>&nbsp; <b>Eager Learner</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
+
+  <br>  
+  <br>
   <b><i>"People that spend their life avoiding death are already DEAD! --- Rick Sanchez"</i></b>
+  <br>
+
+  <br>
 </p>
 
 <h3>Little facts about me 👽</h3>
